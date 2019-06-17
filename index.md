@@ -8,7 +8,7 @@
 <img src="images/rick_and_morty_s02_still.jpg?raw=true"/>
 
 ---
-[Blah 2](/pdf/sample_presentation.pdf)
+[Blah 2]
 <img src="images/rick-morty-channel-4.jpg?raw=true"/>
 
 ---
