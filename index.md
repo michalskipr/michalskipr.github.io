@@ -4,26 +4,26 @@
 
 ### Blah 1 
 
-[Project 1 Title](/sample_page)
+[Blah 1](/sample_page)
 <img src="images/rick_and_morty_s02_still.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Blah 2](/pdf/sample_presentation.pdf)
 <img src="images/rick-morty-channel-4.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Blah 3](http://example.com/)
 <img src="images/Rick&Morty.jpg?raw=true"/>
 
 ---
 
 ### Blah 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Blah 1](http://example.com/)
+- [Blah 2](http://example.com/)
+- [Blah 3](http://example.com/)
+- [Blah 4](http://example.com/)
+- [Blah 5](http://example.com/)
 
 ---
 
