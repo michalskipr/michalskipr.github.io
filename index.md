@@ -2,7 +2,7 @@
 
 ---
 
-### Blah 1 
+### Blah A 
 
 [Blah 1](/sample_page)
 <img src="images/rick_and_morty_s02_still.jpg?raw=true"/>
@@ -17,13 +17,11 @@
 
 ---
 
-### Blah 2
+### Blah B
 
 - [Blah 1](http://example.com/)
 - [Blah 2](http://example.com/)
 - [Blah 3](http://example.com/)
-- [Blah 4](http://example.com/)
-- [Blah 5](http://example.com/)
 
 ---
 
